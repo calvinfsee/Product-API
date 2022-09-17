@@ -1,0 +1,9 @@
+node_modules/
+yarn-error.log
+.env
+.nyc_output
+coverage
+tests/
+questionanswerdb.pem
+config.js
+newrelic_agent.log
